@@ -1,4 +1,4 @@
-# PET_VisaoComputacional
+# PET - Visão Computacional
 Repositório dedicado ao Projeto de Extensão Tecnológica:<br>
 <b>Redução de Consumo de Energia usando Visão Computacional na Indústria 4.0</b>
 <br>
